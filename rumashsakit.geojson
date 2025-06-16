@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "nama": "RSUD Undata Palu" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [119.8721, -0.8922]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "nama": "RS Anutapura Palu" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [119.8650, -0.8910]
+        }
+      }
+    ]
+  }
+  

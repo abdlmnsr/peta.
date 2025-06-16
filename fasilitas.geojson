@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "nama": "Kantor Gubernur Sulawesi Tengah" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [119.8707, -0.8907]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "nama": "Kantor Walikota Palu" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [119.8725, -0.8950]
+        }
+      }
+    ]
+  }
+  

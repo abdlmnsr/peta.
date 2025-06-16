@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #0f4c75;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  header img {
+    height: 50px;
+  }
+  
+  #map {
+    height: 90vh;
+    width: 100%;
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "nama": "Sungai Palu" },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [119.850, -0.880],
+            [119.860, -0.890],
+            [119.870, -0.900]
+          ]
+        }
+      }
+    ]
+  }
+  

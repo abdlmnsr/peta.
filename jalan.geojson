@@ -1,0 +1,14 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "nama": "Jalan Trans Sulawesi" },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [[119.85, -0.89], [119.87, -0.91]]
+        }
+      }
+    ]
+  }
+  
